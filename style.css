@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(241, 237, 228);
+}
+.container{
+    max-width: 850px;
+}   
+.bg-color{
+    background-color: white;
+    border-radius: 5px;
+}
+.player-sec h6{
+    font-size: 20px;
+    font-weight: 600;
+}
+.player-head{
+    color: rgb(77, 77, 175);
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.blog-head{
+    color: rgb(77, 77, 175);
+    font-size: 22px;
+    font-weight: 600;
+}
+header{
+    background-color: #1686f5;
+}
+.nav-img{
+    width: 40px;
+}
+.mr-3{
+    width: 50px;
+}
+.blog-img{
+    width: 150px;
+}
+.blog-sec p{
+    color: rgb(91, 91, 92);
+    font-weight: 600;
+}
+.link-color{
+    color: rgb(77, 77, 175);
+    font-weight: 600;
+}
+.courses-sec{
+    background-color: white;
+    border-radius: 5px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.card-text{
+    color: tomato;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.checked{
+    color: orange;
+}
+.time-remaiming{
+    font-weight: 600;
+    font-size: medium;
+    background-color: rgba(247, 141, 162, 0.424);
+    border-radius: 20px;
+    color: rgb(231, 44, 122);
+}
